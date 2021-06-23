@@ -1,0 +1,14 @@
+/* 
+    Created on : 23/06/2021, 17:50:10
+    Author     : Disegna
+*/
+html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body{margin:0}
+table{border-spacing:0;border-collapse:collapse; width: 50%;Margin-left:20px; margin-top:20px}td,th{padding:0}
+th{
+    text-align: center;font-weight: bold; color:#1500db!important; //recomendo incluir importante, quando não quero que o usuário mude direto na fonte.
+}
+
+
+
+

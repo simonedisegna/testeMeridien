@@ -17,7 +17,7 @@
         
         public function getCor()
         {
-            return $cor;
+            return $cor; // faltou o $this return $this->cor;
         }
     }
     

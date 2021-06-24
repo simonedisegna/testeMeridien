@@ -1,7 +1,7 @@
 # testeMeridien
 #Arquivos Teste, que a empresa Meridien Clube, solicitou. Assim verificando quais conhecimentos o profissional Simone S. Disegna tem.
 
-Projeto com as funcionalidades, conforme a orientação da  Meridien Clube.
+Projeto com as funcionalidades conforme a orientação da  Meridien Clube.
 
 ### 📋 Pré-requisitos
 HTML, CSS, Javascript e PHP com OO

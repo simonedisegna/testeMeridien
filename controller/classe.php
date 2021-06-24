@@ -25,7 +25,7 @@
    * correto é chamar a classe por require_once e assim estânciar o mesmo. 
    * $carro = new Carro;
     $carro->marca = "Kombi"; //váriável pública esta correta
-    $carro->cor = "branca"; // a váriavel é dicada por set e get o correto seria $carro->setCor;
+    $carro->cor = "branca"; // a váriavel é privada por esse motivo deve ser utilizada pela chamada set e get, o correto seria $carro->setCor;
     
     echo $carro->marca; 
     echo $carro->cor;*/ //vai da erro $carro->getCor;

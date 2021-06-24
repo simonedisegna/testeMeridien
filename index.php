@@ -20,17 +20,17 @@
             <tbody>
                 <tr>
                     <td>Ana Paula Guimarães</th>
-                    <td>05/08/1978</td>
+                    <td><a href="#" onclick="verificarNiver('05/08/1978')">05/08/1978</a></td>
                     <td>5134937512</td>                    
                 </tr>
                 <tr>
                     <td>Bianca do Magistério</th>
-                    <td>15/04/1995</td>
+                    <td><a href="#" onclick="verificarNiver('15/04/1995')">15/04/1995</a></td>
                     <td>5195263522</td>                    
                 </tr>
                 <tr>
                     <td>Paulo Adão Duarte</th>
-                    <td>30/12/1958</td>
+                    <td><a href="#" onclick="verificarNiver('30/12/1958')">30/12/1958</a></td>
                     <td>5198525633</td>                    
                 </tr>
             </tbody>

@@ -7,7 +7,7 @@ Projeto com as funcionalidades conforme a orientação da  Meridien Clube.
 HTML, CSS, Javascript e PHP com OO
 
 ## ⚙️ Executando os testes
-Com a tela principal, o sistema irá mostrar uma tabela, este com botão que muda a cor, clicando na data de aniversário o sistema irá fazer cálculo com a data atual.
+Com a tela principal o sistema irá mostrar uma tabela, este com botão que muda a cor clicando na data de aniversário o sistema irá fazer cálculo com a data atual.
 Listagem de telefone formatados.
 Verificação da classe, ajustando em comentário os erros que indicava nele.
 
